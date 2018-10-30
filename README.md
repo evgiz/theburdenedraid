@@ -1,7 +1,7 @@
 # The Burdened Raid
 
 The Burdened Raid is a 3D retro dungeon crawler written in java using the LibGDX game development framework.
-Created in less than 24h for the Ludum Dare 40 game jam competition. The game placed **29th** overall in the compo with over 1000 submissions total!
+Created in less than 48h for the Ludum Dare 40 game jam competition. The game placed **29th** overall in the compo with over 1000 submissions total!
 
 
 <img src="screenshot_01.png" width="400px">
